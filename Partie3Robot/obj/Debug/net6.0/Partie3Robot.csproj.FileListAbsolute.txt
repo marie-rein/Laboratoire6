@@ -1,0 +1,15 @@
+C:\Code\Prog2\Laboratoire6\Partie3Robot\bin\Debug\net6.0\Partie3Robot.exe
+C:\Code\Prog2\Laboratoire6\Partie3Robot\bin\Debug\net6.0\Partie3Robot.deps.json
+C:\Code\Prog2\Laboratoire6\Partie3Robot\bin\Debug\net6.0\Partie3Robot.runtimeconfig.json
+C:\Code\Prog2\Laboratoire6\Partie3Robot\bin\Debug\net6.0\Partie3Robot.dll
+C:\Code\Prog2\Laboratoire6\Partie3Robot\bin\Debug\net6.0\Partie3Robot.pdb
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\Partie3Robot.csproj.AssemblyReference.cache
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\Partie3Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\Partie3Robot.AssemblyInfoInputs.cache
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\Partie3Robot.AssemblyInfo.cs
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\Partie3Robot.csproj.CoreCompileInputs.cache
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\Partie3Robot.dll
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\refint\Partie3Robot.dll
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\Partie3Robot.pdb
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\Partie3Robot.genruntimeconfig.cache
+C:\Code\Prog2\Laboratoire6\Partie3Robot\obj\Debug\net6.0\ref\Partie3Robot.dll
